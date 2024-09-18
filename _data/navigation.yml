@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Resume"
-    url: /talks/    
+    url:  /cv/   
 
   - title: "Cover Letter"
     url: /teaching/    
