@@ -12,7 +12,7 @@ title                    : "Elanor Finlayson"
 title_separator          : "-"
 name                     : &name "Elanor Finlayson"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://efin396.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ef396/ef396.github.io"
 
