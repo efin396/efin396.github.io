@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-**Georgia Institute of Technology, Atlanta, GA 
+**Georgia Institute of Technology, Atlanta, GA**
 *B.S. Computer Science Candidate Expected December 2024
 *M.S. Computer Science Candidate Expected December 2025
 Work Experience
