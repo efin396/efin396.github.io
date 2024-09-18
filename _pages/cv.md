@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-Georgia Institute of Technology, Atlanta, GA
-------
-*B.S. Computer Science Candidate Expected December 2024
-*M.S. Computer Science Candidate Expected December 2025
+*Georgia Institute of Technology, Atlanta, GA
+  *B.S. Computer Science Candidate Expected December 2024
+  *M.S. Computer Science Candidate Expected December 2025
 Work Experience
 ======
 *Student Assistant. The Cope Lab at Georgia Institute of Technology; Atlanta, GA May 2023 – Present
