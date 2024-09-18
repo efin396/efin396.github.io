@@ -4,17 +4,16 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
+  - /cv/
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+*Georgia Institute of Technology, Atlanta, GA 
+**B.S. Computer Science Candidate Expected December 2024
+**M.S. Computer Science Candidate Expected December 2025
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
