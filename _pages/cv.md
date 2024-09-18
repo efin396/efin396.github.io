@@ -37,17 +37,28 @@ and Emmes databases.
   * Conducted quality assurance on study documents and supported study recruitment efforts.
   * Managed wearable technology for inpatient studies and provided technical support for the devices.
 
+Projects
+======
+
+**Touch Cord:**
+* Designed and implemented signal processing techniques for real-time gesture detection on a cord interface.
+Contributed to the creation of a visual display and evaluated the accuracy of gesture detection in the system.
+_Key skills: Signal Processing, Python, Group Collaboration, GitHub_
+**Diabetes Serious Games:**
+* Collaborated with a team to design a game that teaches non-diabetic individuals how to respond to medical
+emergencies and raise awareness of early symptoms.
+_Key skills: Python, Gamification, Group Collaboration, GitHub_
+**Crowd-Sourced Stock Market Analysis:**
+* Conducted sentiment analysis on r/wallstreetbets subreddit posts using a RoBERTa transform model and VADER
+sentiment model to determine the optimal model for sentiment classification and gain insights into stock market
+sentiment.
+_Key skills: Machine Learning, Python, Group Collaboration, GitHub_
+**Board Game:**
+* Developed a virtual board game using a React framework and hosted the site on GitHub pages. Created an AI
+player to play against the user using a recursive minimax function.
+_Key skills: HTML/CSS, JavaScript, React Framework_
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-Service and leadership
-======
-* Previous officer on the Georgia Tech Cycling Club.
+* Programming Languages: Python, Java, C, JavaScript, HTML/CSS, SQL, Matlab
+* Tools: Git, GitHub, Visual Studio Code, Figma, WordPress, Microsoft Suite
