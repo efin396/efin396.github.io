@@ -45,17 +45,20 @@ Projects
 Contributed to the creation of a visual display and evaluated the accuracy of gesture detection in the system.
 
 _Key skills: Signal Processing, Python, Group Collaboration, GitHub_
+
 **Diabetes Serious Games:**
 * Collaborated with a team to design a game that teaches non-diabetic individuals how to respond to medical
 emergencies and raise awareness of early symptoms.
 
 _Key skills: Python, Gamification, Group Collaboration, GitHub_
+
 **Crowd-Sourced Stock Market Analysis:**
 * Conducted sentiment analysis on r/wallstreetbets subreddit posts using a RoBERTa transform model and VADER
 sentiment model to determine the optimal model for sentiment classification and gain insights into stock market
 sentiment.
 
 _Key skills: Machine Learning, Python, Group Collaboration, GitHub_
+
 **Board Game:**
 * Developed a virtual board game using a React framework and hosted the site on GitHub pages. Created an AI
 player to play against the user using a recursive minimax function.
