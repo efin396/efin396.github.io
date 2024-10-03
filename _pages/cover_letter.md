@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Job Description associated with this cover letter can be found [here](https://jobs.cdc.gov/job-search/job-details?jobid=HHS-CDC-DH-24-12444349)
+Job description associated with this cover letter can be found [here](https://jobs.cdc.gov/job-search/job-details?jobid=HHS-CDC-DH-24-12444349)
 
 ---
 
