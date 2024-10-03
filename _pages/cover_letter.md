@@ -1,6 +1,11 @@
-# Cover Letter
+---
+permalink: /
+title: "Cover Letter"
+author_profile: true
+redirect_from: 
+  - /cover_letter/
+---
 
-Here is an embedded PDF:
 
 <iframe src="/files/cover_letter.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
