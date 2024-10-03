@@ -7,7 +7,7 @@
 main:
 
   - title: "About"
-    url: /_pages/about/
+    url: /about/
 
   - title: "Resume"
     url:  /resume/  
