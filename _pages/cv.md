@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Click the button below to download my resume:
-
 <a href="/files/PDF_Fall2023Resume.pdf.pdf" download>
     <button style="padding: 10px 20px; background-color: #007ACC; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Download Resume
