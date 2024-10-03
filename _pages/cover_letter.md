@@ -2,7 +2,7 @@
 layout: archive
 title: "Cover Letter"
 permalink: /cover_letter/
-author_profile: true
+author_profile: false
 redirect_from:
   - /cover_letter/
 ---
