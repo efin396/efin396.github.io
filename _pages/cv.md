@@ -19,7 +19,7 @@ Education
 ======
 
 * Georgia Institute of Technology, Atlanta, GA
-  * B.S. Computer Science Candidate Expected December 2024
+  * B.S. Computer Science (Highest Honors) - December 2024
   * M.S. Computer Science Candidate Expected December 2025
 
 Work Experience
