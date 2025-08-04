@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/PDF_Fall2023Resume.pdf.pdf" download>
+<a href="/files/ResumeSummer2025.pdf" download>
     <button style="padding: 10px 20px; background-color: #007ACC; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Download Resume
     </button>
